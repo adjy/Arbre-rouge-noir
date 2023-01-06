@@ -1,4 +1,7 @@
 
+/*--------------------------------------------------
+    Il y a certains bugs qui doivent etre corriger
+--------------------------------------------------*/
 
 /*Mes fonctions */
 #include "ABR.hpp"
